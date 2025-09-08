@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Edson 👋
 
-<!--
-**Inici4rSesi0n/Inici4rSesi0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Backend Analyst
 
-Here are some ideas to get you started:
+I'm passionate about backend development, focused on creating robust, efficient, and scalable server-side logic. My goal is to specialize in the design, development, and optimization of APIs and services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies and Tools:**  
+`Java` `Spring Boot` `Python` `MySQL` `Git` `Excel`
+
+**Currently learning:**  
+- Best practices and scalable architectures
+- Design patterns and clean code
+
+## Find me around the web 🌐:
+- Polishing my professional profile on [Computrabajo](https://candidato.pe.computrabajo.com/candidate/cv/edit)
+
+- Checking out my code here on [GitHub](link)
+
+---
