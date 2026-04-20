@@ -12,6 +12,6 @@ I'm passionate about backend development, focused on creating robust, efficient,
 - Design patterns and clean code
 
 ## Find me around the web 🌐:
-- Polishing my professional profile on [Computrabajo](https://candidato.pe.computrabajo.com/candidate/cv/edit)
+
   
 ---
