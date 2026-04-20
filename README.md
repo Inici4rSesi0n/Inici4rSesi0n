@@ -1,99 +1,49 @@
 <div align="center">
-  <h1>Edson Espinal</h1>
-  <p><code>Inici4rSesi0n</code></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=%5BInici4rSesi0n%40archpentest%20~%5D%24;Arch+Linux+%3E%3E%3E+Everything" alt="Typing SVG" />
 </div>
 
----
+<br>
 
-## About me
+# 👋 Hi, I'm Edson
 
-I'm passionate about **cybersecurity**, focusing on both defending systems and attacking them ethically.  
-My goal is to specialize in **offensive security** (penetration testing, red teaming) and **defensive strategies** (monitoring, hardening, incident response) to build a complete skill set.
-
----
-
-## Tools & Environments
-
-<style>
-  .skill-card {
-    display: inline-block;
-    background: #0a0a0a;
-    border: 1px solid #00FFAA;
-    border-radius: 12px;
-    padding: 10px 18px;
-    margin: 8px;
-    font-family: 'Fira Code', monospace;
-    font-weight: bold;
-    color: #00FFAA;
-    transition: all 0.3s ease;
-    cursor: default;
-    box-shadow: 0 0 5px rgba(0,255,170,0.2);
-  }
-  .skill-card:hover {
-    transform: translateY(-5px) scale(1.05);
-    background: #00FFAA;
-    color: #0a0a0a;
-    box-shadow: 0 0 20px #00FFAA;
-    border-color: #0a0a0a;
-  }
-</style>
-
-<div align="center">
-  <span class="skill-card">Java</span>
-  <span class="skill-card">C</span>
-  <span class="skill-card">Nmap</span>
-  <span class="skill-card">Hydra</span>
-  <span class="skill-card">Wireshark</span>
-  <span class="skill-card">Arch Linux</span>
-  <span class="skill-card">Cisco Packet Tracer</span>
-  <span class="skill-card">HTML5</span>
-  <span class="skill-card">CSS</span>
-</div>
+🔐 `Inici4rSesi0n`
 
 ---
 
-## Currently learning
+## 📖 About me
 
-- Network security & ethical hacking  
-- Defensive strategies (monitoring, hardening, SIEM)  
-- Offensive techniques (penetration testing, red teaming)  
-- Secure coding & system hardening  
+I'm studying **Software Engineering** and I'm passionate about **cybersecurity**. I'm interested in understanding how systems get compromised and, at the same time, finding ways to protect them and prevent attacks.  
+My goal is to specialize in both **offensive security** (pentesting, red team) and **defensive security** (monitoring, hardening, incident response), to develop a well‑rounded mindset that allows me to defend systems by thinking like an attacker.
 
 ---
 
-## Find me around the web
+## 🛠️ Tools & environments 
 
-<style>
-  .social-icon {
-    display: inline-block;
-    margin: 0 15px;
-    font-size: 1.5rem;
-    font-weight: bold;
-    font-family: monospace;
-    padding: 8px 16px;
-    background: #111;
-    border-radius: 20px;
-    border: 1px solid #00FFAA;
-    color: #00FFAA;
-    transition: all 0.2s ease;
-    cursor: default;
-  }
-  .social-icon:hover {
-    transform: translateY(-4px);
-    filter: drop-shadow(0 0 8px #00FFAA);
-    background: #00FFAA;
-    color: #000;
-  }
-</style>
+### 💻 Programming languages
+`Java` `C` `HTML` `CSS`
 
-<div align="center">
-  <span class="social-icon">GitHub</span>
-  <span class="social-icon">LinkedIn</span>
-  <span class="social-icon">Twitter</span>
-</div>
+### 🔐 Security tools
+`Nmap` `Hydra` `Wireshark`
+
+### 🐧 Operating system / environment
+`Arch Linux`
+
+### 🌐 Networking / simulation
+`Cisco Packet Tracer`
 
 ---
 
-<div align="center">
-  <small>⚡ Hover effects work — no redirections ⚡</small>
-</div>
+## 📚 Currently learning
+
+🔹 Network security & ethical hacking  
+🔹 Defensive strategies (SIEM, hardening)  
+🔹 Offensive techniques (pentesting, red team)    
+🔹 Object-Oriented Programming (OOP) & backend fundamentals  
+🔹 Operating Systems fundamentals (processes, memory, permissions)
+
+---
+
+## 🌐 Find me around the web 
+
+---
+<img width="700" height="340" alt="terminal" src="https://github.com/user-attachments/assets/10aed86d-3937-4f5d-b607-8f3f277f1813" />
