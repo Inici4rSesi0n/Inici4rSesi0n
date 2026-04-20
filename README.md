@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=%5BInici4rSesi0n%40archpentest%20~%5D%24;Arch+Linux+%3E%3E%3E+Everything" alt="Typing SVG" />
+  <picture>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=%5BInici4rSesi0n%40archpentest%20~%5D%24" alt="Typing SVG" />
+  </picture>
 </div>
 
 <br>
@@ -46,4 +48,8 @@ My goal is to specialize in both **offensive security** (pentesting, red team) a
 ## 🌐 Find me around the web 
 
 ---
-<img width="700" height="340" alt="terminal" src="https://github.com/user-attachments/assets/10aed86d-3937-4f5d-b607-8f3f277f1813" />
+<p align="center">
+  <picture>
+    <img width="700" height="340" alt="terminal" src="https://github.com/user-attachments/assets/113c1d29-9fa2-4fe2-aa8b-9cfc66f19915" />
+  </picture>
+</p>
