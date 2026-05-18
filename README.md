@@ -48,8 +48,3 @@ My goal is to specialize in both **offensive security** (pentesting, red team) a
 ## 🌐 Find me around the web 
 
 ---
-<p align="center">
-  <picture>
-    <img width="700" height="340" alt="terminal" src="https://github.com/user-attachments/assets/113c1d29-9fa2-4fe2-aa8b-9cfc66f19915" />
-  </picture>
-</p>
