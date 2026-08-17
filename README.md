@@ -22,29 +22,13 @@ My goal is to specialize in both **offensive security** (pentesting, red team) a
 ## 🛠️ Tools & environments 
 
 ### 💻 Programming languages
-`Java` `C` `HTML` `CSS`
+`Java` `C` `C++`
 
 ### 🔐 Security tools
-`Nmap` `Hydra` `Wireshark`
+`Nmap` `Recon-g` `Wireshark`
 
 ### 🐧 Operating system / environment
 `Arch Linux`
 
 ### 🌐 Networking / simulation
 `Cisco Packet Tracer`
-
----
-
-## 📚 Currently learning
-
-🔹 Network security & ethical hacking  
-🔹 Defensive strategies (SIEM, hardening)  
-🔹 Offensive techniques (pentesting, red team)    
-🔹 Object-Oriented Programming (OOP) & backend fundamentals  
-🔹 Operating Systems fundamentals (processes, memory, permissions)
-
----
-
-## 🌐 Find me around the web 
-
----
